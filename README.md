@@ -1,6 +1,6 @@
 # Customized_C++_array
 
-we create a powerful Array class that performs range checking to ensure
+I introduce a powerful Array class that performs range checking to ensure
 that subscripts remain within the bounds of the Array. The class allows one Array object to
 be assigned to another with the assignment operator. Array objects know their size, so the
 size does not need to be passed separately to functions that receive Array parameters. Entire

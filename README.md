@@ -1,4 +1,4 @@
-# Customized_Cpp_array
+# Customized_C++_array
 
 we create a powerful Array class that performs range checking to ensure
 that subscripts remain within the bounds of the Array. The class allows one Array object to
